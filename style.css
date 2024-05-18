@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+    font-size: 50px;
+    
+    color: rgb(61, 12, 117);
+}
+body{
+    background-color: rgb(216, 238, 211);
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190830/pngtree-wood-panels-banner-background-light-color-image_312042.jpg);
+iframe{
+    width: 350px;
+    height: 200px;
+}
+
+.komiks{
+    width: 950px;
+    height: 600px;
+
+
+}
+
